@@ -1,0 +1,1 @@
+This folder contains the undistorted images of test file
